@@ -36,7 +36,6 @@ const NewExpense = (props) => {
           onCancel={stopEditingHandeler}
         />
       )}
-      <ExpenseForm onSaveExpenseData={saveExpenseDataHandler} />
     </div>
   );
 };

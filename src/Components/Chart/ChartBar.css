@@ -1,5 +1,6 @@
 .chart-bar{
-    height: 100%;
+    height: 90%;
+    width: 15px;
     dispaly: flex;
     flex-direction: column;
     align-items: center;
